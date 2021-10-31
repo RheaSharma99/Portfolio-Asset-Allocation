@@ -1,1 +1,0 @@
-A python project to predict the optimal portfolio allocation
